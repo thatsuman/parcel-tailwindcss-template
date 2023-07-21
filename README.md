@@ -1,2 +1,6 @@
-# discord-clone
-Clone of Discord official home page
+# parcel-tailwindcss Template
+
+## Configured with
+
+- Parcel.js
+- TailwindCSS
